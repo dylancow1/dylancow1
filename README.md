@@ -1,6 +1,9 @@
 I'm learning hacking and penetration testing using Hackthebox.com and using kali linux.
 
 Edit: I am also studying for the OSCP. As a network admin in my day job I think the move to Cyber Security would be a fun one! 
+Not sure why this didn't seem to work before. 
+
+#echo "Hello World";
 
 
 
