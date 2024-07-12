@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm learning hacking and penetration testing using Hackthebox.com and using kali linux.
 
 <!--
 **dylancow1/dylancow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
